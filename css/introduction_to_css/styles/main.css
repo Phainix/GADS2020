@@ -20,3 +20,20 @@ h1, h2, h3, h4, h5, h6 {
 p {
     font-size: 18px;
 }
+
+a, a:link {
+    color: rgb(168, 109,147);
+    line-height: 1.2;
+}
+
+a:visited {
+    color: rgb(235, 88, 179);
+}
+
+a:hover {
+    color: rgb(244, 158, 215);
+}
+
+a:active {
+    color: rgb(247, 20, 173);
+}
