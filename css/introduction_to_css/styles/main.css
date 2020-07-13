@@ -72,3 +72,35 @@ td {
     padding-right: 30px;
     padding-top: 10px;
 }
+
+input, textarea {
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+    background-color: rgb(247, 247, 247);
+}
+
+textarea {
+    margin-left: 0px;
+}
+
+fieldset {
+    max-width: 500px;
+}
+
+button, input, textarea {
+    font-family: Manjari, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    background-color: rgb(168, 109, 147);
+    color: rgb(247, 247, 247);
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(117, 41, 90);
+}
